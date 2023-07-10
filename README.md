@@ -17,7 +17,7 @@ Once the contract is deployed, you can interact with it by first putting a value
 Then put a value in mint function then transact. Next step is checking the balance how much do you have. lastly, is same procedure with mint fucntion by pasting the address and put a value of how much you will deduct your current balance.
 After that we can now test the program that you created. 
 
-#Author
+##Author
 Jan Jerick M. Acupinpin
 
 
